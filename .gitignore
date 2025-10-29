@@ -16,7 +16,6 @@
 Thumbs.db
 
 # VS Code
-.vscode/settings.json
 
 # Arquivos temporários de migração
 05_dados_migracao/pats_*.txt

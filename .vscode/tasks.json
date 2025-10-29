@@ -1,0 +1,105 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "📝 Gerar Relatório de Progresso",
+      "type": "shell",
+      "command": "bash",
+      "args": [
+        "${workspaceFolder}/04_scripts_ferramentas/gerar_relatorio.sh"
+      ],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new",
+        "focus": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "🏷️ Extrair Tags CI/CD",
+      "type": "shell",
+      "command": "bash",
+      "args": [
+        "${workspaceFolder}/04_scripts_ferramentas/extrair_tags_ci.sh",
+        "${input:reposDir}"
+      ],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new",
+        "focus": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "✅ Validar Migração",
+      "type": "shell",
+      "command": "bash",
+      "args": [
+        "${workspaceFolder}/04_scripts_ferramentas/validar_migracao.sh"
+      ],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new",
+        "focus": true
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "🔍 Validar YAML (arquivo atual)",
+      "type": "shell",
+      "command": "yamllint",
+      "args": [
+        "${file}"
+      ],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "🌳 Ver Estrutura (tree)",
+      "type": "shell",
+      "command": "tree",
+      "args": [
+        "-L",
+        "3",
+        "-C"
+      ],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "🚀 Push para GitHub",
+      "type": "shell",
+      "command": "git",
+      "args": [
+        "push",
+        "origin",
+        "${input:branchName}"
+      ],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+    {
+      "id": "reposDir",
+      "type": "promptString",
+      "description": "Diretório dos repositórios clonados",
+      "default": "./repos"
+    },
+    {
+      "id": "branchName",
+      "type": "promptString",
+      "description": "Nome da branch para push",
+      "default": "main"
+    }
+  ]
+}

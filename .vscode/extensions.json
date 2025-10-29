@@ -1,0 +1,24 @@
+{
+  "recommendations": [
+    "eamodio.gitlens",
+    "gitlab.gitlab-workflow",
+    "donjayamanne.githistory",
+    "ms-azuretools.vscode-docker",
+    "redhat.vscode-yaml",
+    "yzhang.markdown-all-in-one",
+    "davidanson.vscode-markdownlint",
+    "timonwong.shellcheck",
+    "foxundermoon.shell-format",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "aaron-bond.better-comments",
+    "wayou.vscode-todo-highlight",
+    "alefragnani.bookmarks",
+    "esbenp.prettier-vscode",
+    "editorconfig.editorconfig",
+    "christian-kohler.path-intellisense",
+    "pkief.material-icon-theme",
+    "dracula-theme.theme-dracula"
+  ],
+  "unwantedRecommendations": []
+}

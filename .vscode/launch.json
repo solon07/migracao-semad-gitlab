@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Python: Current File",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${file}",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "Bash: Debug Script",
+      "type": "bashdb",
+      "request": "launch",
+      "scriptPath": "${file}",
+      "showDebugOutput": true,
+      "trace": true
+    }
+  ]
+}
