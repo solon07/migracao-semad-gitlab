@@ -1,0 +1,46 @@
+# Dados sensíveis
+05_dados_migracao/variaveis_*.md
+05_dados_migracao/*_secrets.txt
+*.env
+*.key
+*.pem
+
+# Tokens
+*token*.txt
+*pat*.txt
+
+# Temporários
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/settings.json
+
+# Arquivos temporários de migração
+05_dados_migracao/pats_*.txt
+05_dados_migracao/tokens_*.txt
+05_dados_migracao/*_credentials.txt
+05_dados_migracao/variaveis_grupo_semad.md
+05_dados_migracao/variaveis_projetos_*.md
+
+# Backups
+*.bak
+*.backup
+
+# IDEs adicionais
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# Logs
+*.log
+logs/
