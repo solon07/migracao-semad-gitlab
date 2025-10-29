@@ -1,0 +1,105 @@
+=== ANÁLISE DO PROJETO: tramitacao ===
+
+Data da análise: 29/10/2025 17:58:16
+
+=== TOTAL DE COMMITS ===
+313
+
+=== BRANCHES LOCAIS ===
+* develop
+
+=== BRANCHES REMOTAS ===
+  origin/1-acao-imprimir-campo-localizacao-qas
+  origin/11-melhoria-no-editor-de-texto
+  origin/11-melhoria-no-editor-de-texto-qas
+  origin/25-permitir-multi-rascunho
+  origin/34-vinculos-ao-processo
+  origin/49-acao-visualizar-rascunho
+  origin/608-bloqueio-agendamento-audiencia
+  origin/608-bloqueio-agendamento-correcoes-retorno
+  origin/608-bloqueio-audiencia-retorno-homolog
+  origin/621-visualizar-agendamentos-reunioes
+  origin/661-erro-na-tramitacao
+  origin/665-resolver-problemas-lentidao-qas
+  origin/667-inverter-os-campos-de-latitude-e-longitude-backend
+  origin/667-inverter-os-campos-de-latitude-e-longitude-backend-qas
+  origin/677-ajustes-gerais-paraqas
+  origin/HEAD -> origin/develop
+  origin/LuizFelipe/exportarPdf
+  origin/correcao-tamanho-imagem
+  origin/develop
+  origin/disparar-email-instrucao-processo-tramitacao
+  origin/homolog
+  origin/issue281/HygorSousa/Izanagi
+  origin/issue281/HygorSousa/Kratos
+  origin/issue290/HygorSousa/Kratos
+  origin/issue369/HygorSousa/Izanagi
+  origin/issue510/HygorSousa/Izanagi
+  origin/issue514/HygorSousa/Izanagi
+  origin/issue557/HygorSousa/Izanagi
+  origin/issue558/HygorSousa/Izanagi
+  origin/issue574/HygorSousa/Kratos
+  origin/issue63/HygorSousa/Izanagi
+  origin/issue65/HygorSousa/Izanagi
+  origin/issue67/HygorSousa/Kratos
+  origin/master
+  origin/multirascunho_assinatura_novoseditores-qas
+  origin/novo-historico-trami
+  origin/prod
+  origin/qas
+  origin/qas-release-12-03-25
+  origin/qas-release-19-05-25
+  origin/qas-release-23-04-25
+  origin/qas-release-23-06-2025
+  origin/qas-release-27-05-25
+  origin/tramitacaoProcesso/HygorSousa/Izanagi
+
+=== TOTAL DE BRANCHES REMOTAS ===
+44
+
+=== TAGS ===
+(Nenhuma tag encontrada)
+
+=== ÚLTIMOS 10 COMMITS ===
+82163d3 - Diogo Boegershausen, 9 months ago : Merge branch 'merge-develop' into 'develop'
+93ebae3 - Augusto Gontijo, 9 months ago : correcao
+b830f37 - Augusto Gontijo, 9 months ago : Ajustando tamanho das imagens da pré visualização
+11c5a72 - Nilo, 9 months ago : atualiza branch com qas
+d4e2191 - Nilo, 9 months ago : remove imports não usados
+4dbb40b - Nilo, 9 months ago : remove espaco
+4c43985 - Nilo, 9 months ago : Coloca os metodos de ajuste de imagem dentro de PDFUtil.java
+6ad5052 - Nilo, 9 months ago : remove espaços
+d30ab77 - Augusto Gontijo, 9 months ago : Removendo exception
+669d6eb - Augusto Gontijo, 9 months ago : Adicionando pré-visualização de texto do despacho na instrução do processo, e alterando pdf do despacho
+
+=== PRIMEIRO COMMIT (Histórico preservado desde) ===
+d1bbae3 - Matheus Oliveira, 06/09/2022 21:21 : Initial commit
+
+
+=== TOTAL DE AUTORES (Contributors) ===
+19
+
+=== LISTA DE AUTORES ===
+Augusto Gontijo
+Daniel Vidal
+Diogo Boegershausen
+Enzo Furtuoso
+Everton de Brito Rodrigues
+everton.rodrigues
+Ivam novais
+Ivam Novais
+Luca Prieto
+luiz.felipe
+Matheus Alisson de Oliveira
+Matheus Oliveira
+Nilo
+Otavio Resende
+Otávio Resende
+Pedro Diniz de Magalhães
+stanley
+Vinicius Guimaraes
+Vinicius Spinelli
+
+=== ESTATÍSTICAS DO REPOSITÓRIO ===
+Tamanho do diretório .git: 1.6M
+Total de arquivos rastreados: 117

@@ -1,0 +1,140 @@
+=== VALIDAÇÃO DE MERGE REQUESTS - SEMAD ===
+
+Data: 29/10/2025 18:07:24
+
+========================================
+PROJETO: tramitacao
+========================================
+
+MRs ABERTOS:
+No open merge requests available on youx-group/semad/tramitacao.
+
+A new version of glab has been released: v1.43.0-56-gaf627995 -> v1.74.0
+https://gitlab.com/gitlab-org/cli/-/releases/v1.74.0
+
+MRs MERGED (últimos 20):
+Showing 20 merged merge requests on youx-group/semad/tramitacao. (Page 1)
+
+!239	youx-group/semad/tramitacao!239	refactor: ajustes na lógica de vinculação e validação de usuários em processos	(qas) ← (homolog)
+!238	youx-group/semad/tramitacao!238	refactor: ajustes na lógica de vinculação e validação de usuários em processos	(prod) ← (homolog)
+!237	youx-group/semad/tramitacao!237	refactor: ajustes na lógica de vinculação e validação de usuários em processos	(homolog) ← (erro-anexo-externo)
+!236	youx-group/semad/tramitacao!236	feat: Exclui registros com status 'EMISSAO_DARE' das consultas de documentos	(qas) ← (gerar-dare)
+!235	youx-group/semad/tramitacao!235	feat: Adiciona lógica e tabelas para vinculação de usuários a processos e despachos	(prod) ← (homolog)
+!234	youx-group/semad/tramitacao!234	feat: Implementa lógica para geração e vinculação de documentos do tipo DARE	(qas) ← (gerar-dare)
+!233	youx-group/semad/tramitacao!233	Removendo estilo que quebrava linha caso texto fosse muito grande	(homolog) ← (qas)
+!232	youx-group/semad/tramitacao!232	Removendo estilo que quebrava linha caso texto fosse muito grande	(qas) ← (despacho-quebrado)
+!231	youx-group/semad/tramitacao!231	feat: Adiciona lógica e tabelas para vinculação de usuários a processos e despachos	(homolog) ← (qas)
+!230	youx-group/semad/tramitacao!230	Homolog	(prod) ← (homolog)
+!229	youx-group/semad/tramitacao!229	feat: Refatoração do tratamento de exceções e validação no módulo de fluxo de Status	(qas) ← (mais-de-um-responsavel-status-processo)
+!228	youx-group/semad/tramitacao!228	Adicionando tratativa para despachos cancelados após finalização em assinaturas pendentes	(qas) ← (123-ass-docs-cancelados-qas)
+!227	youx-group/semad/tramitacao!227	Adicionando tratativa para despachos cancelados após finalização em assinaturas pendentes	(homolog) ← (123-ass-docs-cancelados)
+!226	youx-group/semad/tramitacao!226	Homolog	(prod) ← (homolog)
+!225	youx-group/semad/tramitacao!225	Bug: Conteúdo da Instrução	(homolog) ← (qas)
+!224	youx-group/semad/tramitacao!224	Erro de sql rascunho	(qas) ← (erro-rascunho)
+!223	youx-group/semad/tramitacao!223	Homolog	(prod) ← (homolog)
+!222	youx-group/semad/tramitacao!222	Qas	(homolog) ← (qas)
+!221	youx-group/semad/tramitacao!221	Ajustando formatação da tabela nos pdfs de despacho	(qas) ← (tabela-pdf)
+!220	youx-group/semad/tramitacao!220	Reorganiza a lógica de atualização de status e substatus no método...	(prod) ← (homolog)
+
+A new version of glab has been released: v1.43.0-56-gaf627995 -> v1.74.0
+https://gitlab.com/gitlab-org/cli/-/releases/v1.74.0
+
+MRs CLOSED (últimos 20):
+Showing 5 closed merge requests on youx-group/semad/tramitacao. (Page 1)
+
+!204	youx-group/semad/tramitacao!204	Assinantes apenas inseridos manualmente e tratamento para não finalizar com editores novos	(qas-release-23-04-25) ← (multirascunho_assinatura_novoseditores-qas)
+!186	youx-group/semad/tramitacao!186	Atualizando qas com a release	(qas) ← (qas-release-23-04-25)
+!115	youx-group/semad/tramitacao!115	correção pipeline de qas	(qas) ← (661-pipeline-qas)
+!37	youx-group/semad/tramitacao!37	Draft: Issue574/hygor sousa/kratos	(develop) ← (issue574/HygorSousa/Kratos)
+!36	youx-group/semad/tramitacao!36	Resolve representante no imprimir instrumentos	(develop) ← (issue514/HygorSousa/Izanagi)
+
+A new version of glab has been released: v1.43.0-56-gaf627995 -> v1.74.0
+https://gitlab.com/gitlab-org/cli/-/releases/v1.74.0
+
+Total de MRs (abertos): 2
+Total de MRs (merged): 33
+
+
+========================================
+PROJETO: microservicos
+========================================
+
+MRs ABERTOS:
+No open merge requests available on youx-group/semad/microservicos.
+
+A new version of glab has been released: v1.43.0-56-gaf627995 -> v1.74.0
+https://gitlab.com/gitlab-org/cli/-/releases/v1.74.0
+
+MRs MERGED (últimos 20):
+Showing 20 merged merge requests on youx-group/semad/microservicos. (Page 1)
+
+!1568	youx-group/semad/microservicos!1568	Merge branch 'ajustes-duplicacao-bem-apreendido' into 'homolog'	(prod) ← (cherry-pick-3e99f8b0)
+!1567	youx-group/semad/microservicos!1567	:feat: Adiciona métodos no repositório para verificar e salvar bens...	(homolog) ← (ajustes-duplicacao-bem-apreendido)
+!1566	youx-group/semad/microservicos!1566	Merge branch 'cherry-pick-060a3165' into 'homolog'	(prod) ← (cherry-pick-a5f1c8dd)
+!1565	youx-group/semad/microservicos!1565	:fix: Ajustando salvamento de bens em formularios com mais de 1 instrument	(homolog) ← (cherry-pick-060a3165)
+!1564	youx-group/semad/microservicos!1564	:recycle: Refatora DocumentoPessoaService para usar Lombok e otimiza validação...	(prod) ← (ajustes-anexar-documentos-externo)
+!1563	youx-group/semad/microservicos!1563	:recycle: Refatora DocumentoPessoaService para usar Lombok e otimiza validação...	(homolog) ← (ajustes-anexar-documentos-externo)
+!1562	youx-group/semad/microservicos!1562	:bug: Corrige erro ao assinar processo	(prod) ← (erro-prod-assinar-processo)
+!1561	youx-group/semad/microservicos!1561	:recycle: Refatora lógica de atualização do interessado no agendamento para...	(homolog) ← (erro-prod-assinar-processo)
+!1560	youx-group/semad/microservicos!1560	Qas	(homolog) ← (qas)
+!1559	youx-group/semad/microservicos!1559	:recycle: Refatora lógica de atualização do interessado no agendamento para...	(prod) ← (ajustes-agendamento)
+!1558	youx-group/semad/microservicos!1558	:feat: Atualiza lógica de definição de responsável no agendamento, adiciona...	(homolog) ← (ajustes-resolve-erros-agendamento)
+!1557	youx-group/semad/microservicos!1557	:feat: Cria nomeRazaoSocial no DTO de documento, ajustas os serviços de...	(prod) ← (homolog-release-02-10-25)
+!1556	youx-group/semad/microservicos!1556	Alterando para salvar horarios correto no alerta	(qas) ← (horario-errado-alerta)
+!1555	youx-group/semad/microservicos!1555	:feat: Implementa funcionalidades para cálculo de multa, formatação monetária...	(homolog) ← (qas)
+!1554	youx-group/semad/microservicos!1554	Ajusta na busca pelo documentos do representante por PJ no gerenciamento...	(homolog) ← (ajustes-nomeRazaoSocialDocumento)
+!1553	youx-group/semad/microservicos!1553	Ajuste dare	(qas) ← (ajuste-dare)
+!1552	youx-group/semad/microservicos!1552	:feat: Cria nomeRazaoSocial no DTO de documento, ajustas os serviços de...	(homolog) ← (homolog-novas-colunas-documentos-usuarios)
+!1551	youx-group/semad/microservicos!1551	:feat: Ajusta lógica para geração de URL DARE e melhora validação de instrumentos	(qas) ← (gerar-dare-correcoes)
+!1550	youx-group/semad/microservicos!1550	:feat: Ajusta lógica e exibição de dados DARE em instrumentos vinculados	(qas) ← (gerar-dare-correcoes)
+!1549	youx-group/semad/microservicos!1549	:recycle: Ajusta lógica de atualização de disponibilidade para bens apreendidos	(homolog) ← (duplicacao-de-bens)
+
+A new version of glab has been released: v1.43.0-56-gaf627995 -> v1.74.0
+https://gitlab.com/gitlab-org/cli/-/releases/v1.74.0
+
+Total de MRs (abertos): 2
+Total de MRs (merged): 33
+
+
+========================================
+PROJETO: semad-alerta-frontend
+========================================
+
+MRs ABERTOS:
+Showing 1 open merge request on youx-group/semad/alerta/semad-alerta-frontend. (Page 1)
+
+!172	youx-group/semad/alerta/semad-alerta-frontend!172	Salvando os filtros no localStore para permitir recuperalso quando usuario navega para outras telas	(qas) ← (issue_38)
+
+A new version of glab has been released: v1.43.0-56-gaf627995 -> v1.74.0
+https://gitlab.com/gitlab-org/cli/-/releases/v1.74.0
+
+MRs MERGED (últimos 20):
+Showing 20 merged merge requests on youx-group/semad/alerta/semad-alerta-frontend. (Page 1)
+
+!183	youx-group/semad/alerta/semad-alerta-frontend!183	Homolog	(prod) ← (homolog)
+!182	youx-group/semad/alerta/semad-alerta-frontend!182	Qas	(homolog) ← (qas)
+!181	youx-group/semad/alerta/semad-alerta-frontend!181	Homolog	(prod) ← (homolog)
+!180	youx-group/semad/alerta/semad-alerta-frontend!180	Qas release 27 05 25	(homolog) ← (qas-release-27-05-25)
+!179	youx-group/semad/alerta/semad-alerta-frontend!179	Homolog	(prod) ← (homolog)
+!178	youx-group/semad/alerta/semad-alerta-frontend!178	feat: adicionando reclassificação na visualização do externo	(qas) ← (gerenciamento-alerta)
+!177	youx-group/semad/alerta/semad-alerta-frontend!177	Qas release 19 05 25	(homolog) ← (qas-release-19-05-25)
+!176	youx-group/semad/alerta/semad-alerta-frontend!176	Qas release 27 05 25	(qas) ← (qas-release-27-05-25)
+!175	youx-group/semad/alerta/semad-alerta-frontend!175	Input do email corrigido	(qas-release-27-05-25) ← (corecao-email)
+!174	youx-group/semad/alerta/semad-alerta-frontend!174	Alterando persistencia de filtros ao navegar para vuex	(qas) ← (filtros-para-vuex)
+!173	youx-group/semad/alerta/semad-alerta-frontend!173	fix: corrige erro ao realizar edição do alerta.	(prod) ← (homolog)
+!171	youx-group/semad/alerta/semad-alerta-frontend!171	fix: corrige erro ao realizar edição do alerta.	(homolog) ← (qas-release-23-04-25)
+!170	youx-group/semad/alerta/semad-alerta-frontend!170	fix: corrige erro ao realizar edição do alerta.	(qas) ← (58-erro-edicao-alerta)
+!169	youx-group/semad/alerta/semad-alerta-frontend!169	Homolog	(prod) ← (homolog)
+!168	youx-group/semad/alerta/semad-alerta-frontend!168	Qas	(homolog) ← (qas)
+!167	youx-group/semad/alerta/semad-alerta-frontend!167	Tratando erro 403 global	(qas) ← (erro-403)
+!166	youx-group/semad/alerta/semad-alerta-frontend!166	Merge homolog to prod	(prod) ← (homolog)
+!165	youx-group/semad/alerta/semad-alerta-frontend!165	Merge develop to homolog	(homolog) ← (develop)
+!164	youx-group/semad/alerta/semad-alerta-frontend!164	Merge qas to develop	(develop) ← (qas)
+!163	youx-group/semad/alerta/semad-alerta-frontend!163	Colocando scoped para evitar conflitos	(qas) ← (fix-cor-aviso-paraqas)
+
+A new version of glab has been released: v1.43.0-56-gaf627995 -> v1.74.0
+https://gitlab.com/gitlab-org/cli/-/releases/v1.74.0
+
+Total de MRs (abertos): 4
+Total de MRs (merged): 33
+

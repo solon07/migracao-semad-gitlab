@@ -1,0 +1,109 @@
+=== VALIDAÇÃO DE ISSUES - SEMAD ===
+
+Data: 29/10/2025 18:06:28
+
+========================================
+PROJETO: tramitacao
+========================================
+
+Showing 7 issues in youx-group/semad/tramitacao that match your search. (Page 1)
+
+#7	youx-group/semad/tramitacao#7	[Gerenciamento] Implementar ação de exportar pdf para Processos com alertas improcedentes	(Bug Tracker, Módulo:Gerenciamento, Workflow:In Test)	about 1 year ago
+#6	youx-group/semad/tramitacao#6	[Gerenciamento] Implementar rascunho na instrução do processo	(Homologação, Módulo:Gerenciamento, QA:Failed)	about 2 years ago
+#5	youx-group/semad/tramitacao#5	[Gerenciamento] Instrução de processo para mais de um processo	(Homologação, Módulo:Gerenciamento, backend, frontend)	about 2 years ago
+#4	youx-group/semad/tramitacao#4	Alteração na mudança de status dos processos (tramitação)	(Módulo:Gerenciamento, Workflow:Test Done, backend, frontend)	about 3 years ago
+#3	youx-group/semad/tramitacao#3	Alteração na mudança de status dos processos (tramitação)	(Módulo:Gerenciamento, Workflow:Ready for testing, backend, frontend)	about 3 years ago
+#2	youx-group/semad/tramitacao#2	[#1] Erros "Modelo de Despacho"	(QA:Failed, Workflow:In Test)	about 3 years ago
+#1	youx-group/semad/tramitacao#1	Modelo de despacho	(Módulo:Gerenciamento, Workflow:Test Done, backend, frontend)	about 3 years ago
+
+A new version of glab has been released: v1.43.0-56-gaf627995 -> v1.74.0
+https://gitlab.com/gitlab-org/cli/-/releases/v1.74.0
+
+Total de issues: 10
+
+
+========================================
+PROJETO: microservicos
+========================================
+
+Showing 30 issues in youx-group/semad/microservicos that match your search. (Page 1)
+
+#322	youx-group/semad/microservicos#322	[Gerenciamento] Adicionar status dos instrumentos	(Bug Tracker, Módulo:Gerenciamento, Workflow:In Test)	about 1 year ago
+#321	youx-group/semad/microservicos#321	[Fiscalização] Erro na criação dos instrumentos	(Bug Tracker, Modulo:Fiscalização, Workflow:In Dev)	about 1 year ago
+#320	youx-group/semad/microservicos#320	[Alerta] Erro no envio de anexo para SGO	(Blocked, Bug Tracker, Modulo:Alerta, Workflow:In Dev, bug)	about 2 years ago
+#319	youx-group/semad/microservicos#319	[Gerenciamento] Erros no pdf	(Blocked, Bug Tracker, Módulo:Gerenciamento, Workflow:In Dev, bug)	about 2 years ago
+#318	youx-group/semad/microservicos#318	[Processos Administrativos] Correções	(Homologação, Módulo:Gerenciamento, backend, frontend)	about 2 years ago
+#317	youx-group/semad/microservicos#317	[Fiscalização] Correção no buffer e no kml	(Modulo:Fiscalização, Workflow:Ready for testing)	about 2 years ago
+#316	youx-group/semad/microservicos#316	Melhorar busca no serviço de localização no estado de GO	(Homologação, P3)	about 2 years ago
+#315	youx-group/semad/microservicos#315	[Todos] Não alterar o endereço, caso editado no cadastro	(Homologação, Modulo:Alerta, Modulo:Fiscalização, P4)	about 2 years ago
+#314	youx-group/semad/microservicos#314	[Gerenciamento] Processo RF assinado não adiciona o interessado no acompanhamento	(Módulo:Gerenciamento, QA:Failed)	about 2 years ago
+#313	youx-group/semad/microservicos#313	[Alerta] Notificação de avaliação do alerta - push	(Modulo:Alerta, QA:Failed)	about 2 years ago
+#312	youx-group/semad/microservicos#312	Busca de autos de infração implicando no Consulta - #242	(Blocked, Meta, Modulo:Consulta, backend)	about 2 years ago
+#311	youx-group/semad/microservicos#311	HSF - Kanban 06 - Retrospective	(retrospective)	about 2 years ago
+#310	youx-group/semad/microservicos#310	[SEMAD] Alteração de logo	(Modulo:Alerta, Modulo:Consulta, Modulo:Fiscalização, P1, QA:Failed, mobile)	about 2 years ago
+#309	youx-group/semad/microservicos#309	[Gerenciamento - Gestão de Ordens] Editar Ordem	(Módulo:Gerenciamento, backend)	about 2 years ago
+#308	youx-group/semad/microservicos#308	Atualizar a infra da SEMAD		about 2 years ago
+#307	youx-group/semad/microservicos#307	[Gerenciamento] Erro nos Alertas improcedentes de Processos Administrativos	(Módulo:Gerenciamento, backend)	about 2 years ago
+#306	youx-group/semad/microservicos#306	Atualizar Manuais de Usuário	(Modulo:Alerta, Modulo:Consulta, Modulo:Fiscalização, Workflow:Ready for development)	about 2 years ago
+#305	youx-group/semad/microservicos#305	[Gerenciamento] Aba Meus agendamentos - externo	(Módulo:Gerenciamento, backend)	about 2 years ago
+#304	youx-group/semad/microservicos#304	[Gerenciamento] Aba Agendamentos - Interno	(Módulo:Gerenciamento, backend)	about 2 years ago
+#303	youx-group/semad/microservicos#303	[Fiscalização] Código de receita e detalhamento do DARE	(Bug Tracker, Modulo:Fiscalização, Workflow:Planning)	about 2 years ago
+#302	youx-group/semad/microservicos#302	[Alerta] Status da ordem não atualiza no banco do alerta	(Modulo:Alerta, QA:Failed)	about 2 years ago
+#301	youx-group/semad/microservicos#301	[Gerenciamento] Alterar alerta para status Inconsistente - back	(Módulo:Gerenciamento, backend)	about 2 years ago
+#300	youx-group/semad/microservicos#300	[Consulta] Alterar visualização das pendências dos embargos - back	(Modulo:Consulta, backend)	about 2 years ago
+#299	youx-group/semad/microservicos#299	[Fiscalização - web] Imprimir - Substituir logomarca da semad pelo brasão	(Bug Tracker, Homologação, Modulo:Fiscalização)	about 2 years ago
+#298	youx-group/semad/microservicos#298	[Gerenciamento] Criação de status para instrumentos		about 2 years ago
+#297	youx-group/semad/microservicos#297	[Alerta] Integração com SGO - Código do alerta na resposta	(Bug Tracker, Homologação, Modulo:Alerta, P1, QA:Failed)	about 2 years ago
+#296	youx-group/semad/microservicos#296	[SEMAD] Alteração de logo	(Modulo:Alerta, Modulo:Consulta, Modulo:Fiscalização, Módulo:Gerenciamento, frontend)	about 2 years ago
+#295	youx-group/semad/microservicos#295	[Gerenciamento] Perfis - Gestão de Listas Auxiliares de Espécies	(Módulo:Gerenciamento, P1, Workflow:Planning, backend, frontend)	about 2 years ago
+#294	youx-group/semad/microservicos#294	[Gerenciamento] Perfis - Gestão de Audiências de Autocomposição	(Módulo:Gerenciamento, P1, Workflow:Planning, backend, frontend)	about 2 years ago
+#293	youx-group/semad/microservicos#293	[Gerenciamento] Perfis - Gestão de Enquadramentos, Atenuantes e Agravantes	(Módulo:Gerenciamento, P1, Workflow:Planning, backend, frontend)	about 2 years ago
+
+A new version of glab has been released: v1.43.0-56-gaf627995 -> v1.74.0
+https://gitlab.com/gitlab-org/cli/-/releases/v1.74.0
+
+Total de issues: 33
+
+
+========================================
+PROJETO: semad-alerta-frontend
+========================================
+
+Showing 30 issues in youx-group/semad/alerta/semad-alerta-frontend that match your search. (Page 1)
+
+#76	youx-group/semad/alerta/semad-alerta-frontend#76	[Alerta] Nova Integração SGO	(Modulo:Alerta, Workflow:In Dev)	about 2 years ago
+#75	youx-group/semad/alerta/semad-alerta-frontend#75	[Alerta] Evitar duplicidade de alertas	(Homologação, Modulo:Alerta, P2)	about 2 years ago
+#74	youx-group/semad/alerta/semad-alerta-frontend#74	[Alerta] Verificar horário salvando errado ao cadastrar alerta - [#426 e #427]	(Bug Tracker, Custoso, Modulo:Alerta, S1)	about 2 years ago
+#73	youx-group/semad/alerta/semad-alerta-frontend#73	[Alerta] Cadastro de Alerta	(Modulo:Alerta, QA:Failed)	about 2 years ago
+#72	youx-group/semad/alerta/semad-alerta-frontend#72	[Alerta] Erro na tentativa de avaliar	(Modulo:Alerta, QA:Failed)	about 2 years ago
+#71	youx-group/semad/alerta/semad-alerta-frontend#71	[Alerta] Erro ao tentar visualizar e editar um alerta	(ERRO, Modulo:Alerta, Módulo:Gerenciamento, P1, QA:Failed)	about 2 years ago
+#70	youx-group/semad/alerta/semad-alerta-frontend#70	[Alerta] Alterar template do email do Registro de denúncia	(Bug Tracker, Homologação, Modulo:Alerta)	about 2 years ago
+#69	youx-group/semad/alerta/semad-alerta-frontend#69	[Alerta - web] Cadastro de usuário Externo - endereço	(Modulo:Alerta, P1, QA:Failed)	about 2 years ago
+#68	youx-group/semad/alerta/semad-alerta-frontend#68	[Alerta - web] Cadastro/Edição de alerta não seleciona data passada	(Homologação, Modulo:Alerta, P2, QA:Failed)	about 2 years ago
+#67	youx-group/semad/alerta/semad-alerta-frontend#67	[Alerta] Erro ao tentar cadastrar alerta como anônimo	(Homologação, Modulo:Alerta, P1)	about 3 years ago
+#66	youx-group/semad/alerta/semad-alerta-frontend#66	[Alerta] Cadastro de usuário Externo	(Homologação, Modulo:Alerta, P1, QA:Failed)	about 3 years ago
+#65	youx-group/semad/alerta/semad-alerta-frontend#65	[Alerta] Correção/alteração no histórico	(Homologação, Modulo:Alerta, P1)	about 3 years ago
+#63	youx-group/semad/alerta/semad-alerta-frontend#63	[Alerta - web] Erro no cadastro de alerta anônimo	(Homologação, Modulo:Alerta, QA:Failed)	about 3 years ago
+#62	youx-group/semad/alerta/semad-alerta-frontend#62	[Alerta] Erro ao tentar avaliar alerta	(Homologação, Modulo:Alerta, QA:Failed)	about 3 years ago
+#64	youx-group/semad/alerta/semad-alerta-frontend#64	[Alerta ] Erros no cadastro de usuário	(QA:Failed)	about 3 years ago
+#61	youx-group/semad/alerta/semad-alerta-frontend#61	[Alerta - web] Visualizar alerta não mostra o ponto da localização no mapa	(Homologação, Modulo:Alerta, QA:Failed)	about 3 years ago
+#60	youx-group/semad/alerta/semad-alerta-frontend#60	[Alerta] Erro ao cadastrar alerta	(Homologação, Modulo:Alerta, QA:Failed)	about 3 years ago
+#59	youx-group/semad/alerta/semad-alerta-frontend#59	[Cadastro de usuário] Erro ao tentar cadastrar CPF de pessoa já existente	(Deliverable, Modulo:Alerta, QA:Failed)	about 3 years ago
+#58	youx-group/semad/alerta/semad-alerta-frontend#58	[Alerta - web] Incluir categoria no alerta	(Homologação, Modulo:Alerta, database)	about 3 years ago
+#57	youx-group/semad/alerta/semad-alerta-frontend#57	[Alerta - web] Renomear categoria do alerta	(Homologação, Modulo:Alerta, database)	about 3 years ago
+#56	youx-group/semad/alerta/semad-alerta-frontend#56	[Alerta] Alterar mensagem da modal quando clica no mapa	(Modulo:Alerta, Workflow:Test Done, enhancement)	about 3 years ago
+#55	youx-group/semad/alerta/semad-alerta-frontend#55	[Alerta] Ponto no mapa	(Modulo:Alerta, Workflow:Test Done)	about 3 years ago
+#54	youx-group/semad/alerta/semad-alerta-frontend#54	[ALERTA ] Campo Cpf	(QA:Failed, Workflow:Test Done)	about 3 years ago
+#52	youx-group/semad/alerta/semad-alerta-frontend#52	[Alerta] Adicionar status "Inconsistente"	(Modulo:Alerta, Workflow:Test Done, backend, frontend)	about 3 years ago
+#50	youx-group/semad/alerta/semad-alerta-frontend#50	[Alerta - Listagem] Erro no filtro de data e paginação	(Deliverable, Modulo:Alerta, QA:Failed, Workflow:Test Done)	about 3 years ago
+#49	youx-group/semad/alerta/semad-alerta-frontend#49	[Alerta - Listagem] Erro no filtro de data e paginação	(Modulo:Alerta, QA:Failed, Workflow:Ready for development)	about 3 years ago
+#48	youx-group/semad/alerta/semad-alerta-frontend#48	[Alerta] Status Cancelado não pode Avaliar alerta	(Modulo:Alerta, QA:Failed, Workflow:Test Done)	about 3 years ago
+#44	youx-group/semad/alerta/semad-alerta-frontend#44	[ SEMAD ALERTA ]- Cadastro	(Workflow:Ready for development)	about 3 years ago
+#42	youx-group/semad/alerta/semad-alerta-frontend#42	[Alerta] Status Cancelado não pode Avaliar alerta	(Modulo:Alerta, QA:Failed, Workflow:Ready for development)	about 3 years ago
+#41	youx-group/semad/alerta/semad-alerta-frontend#41	[Alerta - Listagem] Alterar cor do status Não atendido	(Modulo:Alerta, QA:Failed, Workflow:Test Done)	about 3 years ago
+
+A new version of glab has been released: v1.43.0-56-gaf627995 -> v1.74.0
+https://gitlab.com/gitlab-org/cli/-/releases/v1.74.0
+
+Total de issues: 33
+

@@ -1,0 +1,120 @@
+=== ANÁLISE DO PROJETO: semad-alerta-frontend ===
+
+Data da análise: 29/10/2025 18:01:21
+
+=== TOTAL DE COMMITS ===
+358
+
+=== BRANCHES REMOTAS ===
+  origin/30_Cadastro_de_usuário_Erro_ao_tentar_cadastrar_CPF_de_pessoa_já_existente
+  origin/58-erro-edicao-alerta
+  origin/662-identificacao-teste-alerta
+  origin/667-inverter-os-campos-de-latitude-e-longitude-web
+  origin/667-inverter-os-campos-de-latitude-e-longitude-web-qas
+  origin/68/alerta/stanley
+  origin/69-alerta-web-cadastro-de-usuario-externo-endereco
+  origin/69-alerta-web-cadastro-de-usuario-externo-endereco-2
+  origin/HEAD -> origin/qas-release-23-06-2025
+  origin/ajuste-visu-mapa-alerta
+  origin/develop
+  origin/develop-ajustes-cicd-para-homolog
+  origin/fix-cor-aviso-paraqas
+  origin/homolog
+  origin/issue_38
+  origin/master
+  origin/prod
+  origin/producao
+  origin/qas
+  origin/qas-23-06-2025
+  origin/qas-release-12-03-25
+  origin/qas-release-19-05-25
+  origin/qas-release-23-04-25
+  origin/qas-release-23-06-2025
+  origin/qas-release-27-05-25
+
+=== TOTAL DE BRANCHES REMOTAS ===
+25
+
+=== TAGS ===
+release-homologacao-v0.0.1
+release-homologacao-v0.0.2
+v1.1.5-beta
+
+=== ÚLTIMOS 10 COMMITS ===
+e9f2fe8 - Paulo Barbosa, 5 months ago : Merge branch 'gerenciamento-alerta' into 'qas'
+b08c498 - Augusto Gontijo, 5 months ago : Merge branch 'qas' of gitlab.criainovacao.com.br:semad/alerta/semad-alerta-frontend into gerenciamento-alerta
+44b8a69 - Augusto Gontijo, 5 months ago : feat: adicionando reclassificação na visualização do externo #64
+911d3ae - Everton de Brito Rodrigues, 5 months ago : Merge branch 'qas-release-27-05-25' into 'qas'
+fa926f1 - Everton de Brito Rodrigues, 5 months ago : Merge branch 'corecao-email' into 'qas-release-27-05-25'
+30f8d1d - Augusto Gontijo, 5 months ago : Input do email corrigido
+be25355 - Paulo Barbosa, 5 months ago : Merge branch 'filtros-para-vuex' into 'qas'
+c3392fc - Augusto Gontijo, 5 months ago : Alterando persistencia de filtros ao navegar para vuex
+b50b76a - Everton de Brito Rodrigues, 6 months ago : Merge branch '58-erro-edicao-alerta' into 'qas'
+884feb9 - Nilo, 6 months ago : fix: corrige erro ao realizar edição do alerta.
+
+=== PRIMEIRO COMMIT (Histórico preservado desde) ===
+6087efc - Ândreas Andrade Adelino, 01/06/2021 15:54 : Initial commit
+
+
+=== TOTAL DE AUTORES (Contributors) ===
+33
+
+=== LISTA DE AUTORES ===
+Ândreas Adelino
+Ândreas Andrade Adelino
+Augusto Ferreira
+Augusto Gontijo
+danilo.guarizzo
+Danilo Guarizzo
+Diogo Boegershausen
+Enzo Furtuoso
+enzosarmento
+Everton de Brito Rodrigues
+everton.rodrigues
+Francisco Magalhães
+hygor
+Hygor Araujo
+Hygor de Sousa
+Ivam novais
+Ivam Novais
+Julio Cezar Santos Diniz
+Julio Diniz
+Matheus Oliveira
+Maurício Farah
+Nilo
+Otavio
+Otavio Resende
+Otávio Resende
+Paulo Barbosa
+Pedro Diniz de Magalhães
+shira
+stanley
+Stanley Silva
+thiago.domingos@youxgroup.com.br
+Vinicius Guimaraes
+Vinicius Spinelli
+
+=== ESTATÍSTICAS DO REPOSITÓRIO ===
+Tamanho do diretório .git: 7.2M
+Total de arquivos rastreados: 92
+
+=== VERIFICAÇÃO .gitlab-ci.yml ===
+✅ Arquivo presente
+Tamanho: 2.2K
+
+Primeiras 15 linhas do CI:
+stages:
+  - build
+  - deploy
+
+deploy_qas:
+  image: docker:latest
+  before_script:
+    - mkdir /root/.docker
+    - cp config.json /root/.docker/
+    - apk add --update bash curl
+  stage: deploy
+  when: on_success
+  only:
+    refs:
+      - qas

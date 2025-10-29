@@ -1,0 +1,181 @@
+=== ANÁLISE DO PROJETO: microservicos ===
+
+Data da análise: 29/10/2025 18:00:54
+
+=== TOTAL DE COMMITS ===
+3226
+
+=== BRANCHES REMOTAS ===
+  origin/1-acao-imprimir-campo-localizacao-qas
+  origin/11-melhoria-no-editor-de-texto
+  origin/11-melhoria-no-editor-de-texto-qas
+  origin/161-feature-criar-servico-busca-cadastro-nova-ordem
+  origin/182-baixarInstrumentos
+  origin/200-acao-imprimir
+  origin/226-criar-pdf-embargo
+  origin/25-permitir-multi-rascunho
+  origin/30/frontback/stanley
+  origin/30_Cadastro_de_usuário_Erro_ao_tentar_cadastrar_CPF_de_pessoa_já_existente
+  origin/34-vinculos-ao-processo
+  origin/49-acao-visualizar-rascunho
+  origin/608-bloqueio-agendamento-audiencia
+  origin/608-bloqueio-agendamento-correcoes-retorno
+  origin/608-bloqueio-audiencia-retorno-homolog
+  origin/61-corrigir-erros-em-producao-na-criacao-de-relatorio-de-fiscalizacao-com-foto
+  origin/664-resolver-problema-de-sincronizacao-offline
+  origin/665-resolver-problemas-lentidao-qas
+  origin/667-inverter-os-campos-de-latitude-e-longitude-backend
+  origin/667-inverter-os-campos-de-latitude-e-longitude-backend-qas
+  origin/677-ajustes-gerais-paraqas
+  origin/688-erro-descricao-relatorio
+  origin/700-validacao-de-cpf-representante-de-cnpj
+  origin/82-ajuste-integracao-sgo
+  origin/Campo-Instrumentos-vinculados
+  origin/HEAD -> origin/develop
+  origin/LuizFelipe/exportarPdf
+  origin/alerta-60-alerta-erro-ao-cadastrar-alerta
+  origin/alterando-getby-instrumentos
+  origin/alterar-status-instrumento
+  origin/atualizando-qas
+  origin/busca-por-query-instrumentos-qas
+  origin/develop
+  origin/disparar-email-instrucao-processo-microservicos
+  origin/download-referencia
+  origin/emails-usuario-e-vinculados
+  origin/erro-sincronia-app
+  origin/everton/homolg
+  origin/everton/homolog-test-permissões
+  origin/everton/issue-565
+  origin/exportar-pdf
+  origin/fix-audio-temp
+  origin/historico-vinculo-e-documento
+  origin/homolog
+  origin/issue-223/autenticacao-api-semad
+  origin/issue-28/integracao-sgo_resposta_e_anexos
+  origin/issue-28_anexos-manifestação
+  origin/issue_50
+  origin/julio/bases_vetoriais
+  origin/julio/bases_vetoriais_municipio
+  origin/master
+  origin/melhoria-filtro-homologacao
+  origin/novo-historico-micro
+  origin/perfis-pessoa
+  origin/prod
+  origin/prod-release
+  origin/prod-release-09-09-25
+  origin/production
+  origin/qas
+  origin/qas-merge
+  origin/qas-release-11-04-25
+  origin/qas-release-12-03-25
+  origin/qas-release-19-05-25
+  origin/qas-release-23-04-25
+  origin/qas-release-23-06-2025
+  origin/qas-release-27-05-25
+  origin/remover-filtros
+  origin/revert-eebbeaba
+  origin/save_assinaturas
+  origin/teste-filtro
+  origin/uniao_database
+  origin/vinicius/verifica-status-ordem
+
+=== TOTAL DE BRANCHES REMOTAS ===
+72
+
+=== TAGS ===
+release-homologacao-v0.0.1
+release-homologacao-v0.0.2
+release-homologacao-v0.0.3
+release-homologacao-v0.0.4
+release-homologacao-v0.0.5
+release-homologacao-v0.0.6
+release-homologacao-v0.0.7
+release-homologacao-v0.0.8
+release-homologacao-v0.0.9
+release-homologacao-v1.0.0
+t-1.0.0
+t-1.0.1
+t-1.0.2
+t-1.0.3
+v1.0.0-beta
+
+=== ÚLTIMOS 10 COMMITS ===
+a87ff1a6 - thiago.domingos@youxgroup.com.br, 7 months ago : Auteração "auth" config.json
+968bad92 - Diogo Boegershausen, 8 months ago : Merge branch '31-erro-descricao-infracao' into 'develop'
+d4947386 - Diogo Boegershausen, 8 months ago : 31 remove a exclusão da descrição na sincronia
+ff0fd58b - Nilo, 8 months ago : Adiciona idAgendamento no retorno do filtro a ajusta consulta para visualizar agendamento de audiencia.
+034056da - Diogo Boegershausen, 9 months ago : Merge branch 'merge-develop' into 'develop'
+e75cc5d6 - Augusto Gontijo, 9 months ago : fix arquivo-temp audio vindo do alerta
+a7287b83 - Nilo, 9 months ago : Adiciona validacao anotação valid para o campo cpf
+94725047 - Nilo, 9 months ago : Adiciona validacao por tipo polyline
+f8d5a0e2 - Everton de Brito Rodrigues, 9 months ago : lógica
+137b9d84 - Everton de Brito Rodrigues, 9 months ago : lógica
+
+=== PRIMEIRO COMMIT (Histórico preservado desde) ===
+7c32e798 - Bruno Lucinda, 07/05/2021 13:06 : Initial commit
+
+
+=== TOTAL DE AUTORES (Contributors) ===
+52
+
+=== LISTA DE AUTORES ===
+Alex Campos
+Ândreas Adelino
+Ândreas Andrade Adelino
+Augusto
+Augusto Gontijo
+Benildo Domingos
+Bruno Lucinda
+danilo.guarizzo
+Danilo Guarizzo
+Diogo Boegershausen
+Enzo Furtuoso
+enzosarmento
+Everton de Brito Rodrigues
+everton.rodrigues
+Felipe Almeida
+Francisco Machado
+Francisco Magalhães
+hygor
+Hygor Araujo
+Hygor de Sousa
+Ivam novais
+Ivam Novais
+Julio Cezar Santos Diniz
+Julio Diniz
+Luca Prieto
+luiz.felipe
+Luiz Felipe
+Matheus Alisson de Oliveira
+Matheus Oliveira
+Mauricio Farah
+Maurício Farah
+Nilo
+Nilo Henrique Lopes Chaves
+nordeste
+Otavio
+Otavio Resende
+Otávio Resende
+Paulo Barbosa
+Pedro Diniz de Magalhães
+pedro.duarte
+Pedro Duarte
+shira
+silva-stanley15
+stanley
+Stanley
+Stanley Silva
+stephany
+thiago.domingos@youxgroup.com.br
+ThiagoFlosino
+Thiago Leite
+Vinicius Guimaraes
+Vinicius Spinelli
+
+=== ESTATÍSTICAS DO REPOSITÓRIO ===
+Tamanho do diretório .git: 128M
+Total de arquivos rastreados: 1979
+
+=== VERIFICAÇÃO .gitlab-ci.yml ===
+✅ Arquivo presente
+Tamanho: 18K

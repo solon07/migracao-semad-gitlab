@@ -1,0 +1,36 @@
+=== DETALHES ISSUE #7 - tramitacao ===
+title:	[Gerenciamento] Implementar ação de exportar pdf para Processos com alertas improcedentes
+state:	open
+author:	mariaclara_placeholder_15jwkyc
+labels:	Bug Tracker, Módulo:Gerenciamento, Workflow:In Test
+comments:	0
+assignees:	ivamnovais_placeholder_1j9xued
+milestone:	[HSF - Parte 2] Kanban 01
+--
+## Descrição
+Essa atividade consiste na implementação da ação de exportar pdf de Processos Administrativos com Alertas Improcedentes (que não possuem instrumentos).
+- Obs.: o pdf deve seguir o mesmo padrão do exportar pdf de processos com instrumentos:
+  - Capa do Processo
+  - Relatório de Fiscalização
+  - Despachos (quando houver)
+A new version of glab has been released: v1.43.0-56-gaf627995 -> v1.74.0
+https://gitlab.com/gitlab-org/cli/-/releases/v1.74.0
+
+========================================
+
+=== DETALHES MR cat ~/.ssh/keys/id_proxmox_ed25519.pub - tramitacao ===
+title:	refactor: ajustes na lógica de vinculação e validação de usuários em processos
+state:	merged
+author:	evertonrodrigues_placeholder_1kidhe6
+labels:	
+assignees:	
+reviewers:	
+comments:	0
+number:	239
+url:	https://gitlab.com/youx-group/semad/tramitacao/-/merge_requests/239
+--
+- Refinada a comparação de usuários vinculados a processos para evitar null pointers.
+- Corrigida verificação de texto e assinatura nos despachos externos.
+- Ajustada formatação de usuário no histórico de processos.
+A new version of glab has been released: v1.43.0-56-gaf627995 -> v1.74.0
+https://gitlab.com/gitlab-org/cli/-/releases/v1.74.0

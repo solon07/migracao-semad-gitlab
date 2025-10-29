@@ -1,0 +1,78 @@
+=== PROTECTED BRANCHES - Validação Manual ===
+
+Data: 29/10/2025 18:11:58
+
+📋 URLs para verificação no navegador:
+
+1. tramitacao:
+   https://gitlab.com/youx-group/semad/tramitacao/-/settings/repository#js-protected-branches-settings
+
+2. microservicos:
+   https://gitlab.com/youx-group/semad/microservicos/-/settings/repository#js-protected-branches-settings
+
+3. semad-alerta-frontend:
+   https://gitlab.com/youx-group/semad/alerta/semad-alerta-frontend/-/settings/repository#js-protected-branches-settings
+
+✅ O que verificar em cada projeto:
+  - Branches como 'main', 'master', 'prod', 'homolog' devem estar protegidas
+  - Verificar regras: 'Allowed to merge', 'Allowed to push'
+  - Comparar com configuração esperada (branches críticas protegidas)
+
+📝 Anote aqui as branches protegidas encontradas:
+
+TRAMITACAO:
+  - [ ] main/master: _____
+  - [ ] prod: _____
+  - [ ] homolog: _____
+  - [ ] Outras: _____
+
+MICROSERVICOS:
+  - [ ] main/master: _____
+  - [ ] prod: _____
+  - [ ] homolog: _____
+  - [ ] Outras: _____
+
+SEMAD-ALERTA-FRONTEND:
+  - [ ] main/master: _____
+  - [ ] prod: _____
+  - [ ] homolog: _____
+  - [ ] Outras: _____
+
+========================================
+RESULTADOS DA VERIFICAÇÃO (29/10/2025)
+========================================
+
+TRAMITACAO:
+  - [X] develop (default): Protegida ✅
+  - [X] master: Protegida ✅
+  - [X] homolog: Protegida ✅
+  - [X] qas: Protegida ✅
+  - [X] qas-release* (5 branches): Protegidas ✅
+
+MICROSERVICOS:
+  - [X] develop (default): Protegida ✅
+  - [X] master: Protegida ✅
+  - [X] homolog: Protegida ✅
+  - [X] prod: Protegida ✅
+  - [X] qas: Protegida ✅
+  - [X] qas-release* (6 branches): Protegidas ✅
+
+SEMAD-ALERTA-FRONTEND:
+  - [X] develop: Protegida ✅
+  - [X] master: Protegida ✅
+  - [X] homolog: Protegida ✅
+  - [X] qas: Protegida ✅
+  - [X] qas-release* (5 branches): Protegidas ✅
+
+TOTAL: 16 protected branches configuradas nos 3 projetos
+
+========================================
+CONCLUSÃO: ✅ TODAS AS BRANCHES CRÍTICAS PROTEGIDAS!
+========================================
+
+Permissões configuradas corretamente:
+- Merge: Developers + Maintainers (via MR)
+- Push direto: Apenas Maintainers
+- Force push: Bloqueado
+- Code owner approval: Configurado
+
