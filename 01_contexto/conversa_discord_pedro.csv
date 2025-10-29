@@ -1,0 +1,34 @@
+﻿chatId,authorName,avatar,content,attachments,date,referenceMessage,referenceMessageDate,referenceMessageAuthor
+1433084143159476325,pedromagalhaes0459,https://cdn.discordapp.com/avatars/824265863985233970/cc319c02f2f7bf6089d5ce7ffa450928.png,Bongiorno,,2025/10/29 10:24,,,
+1433084222666575893,pedromagalhaes0459,https://cdn.discordapp.com/avatars/824265863985233970/cc319c02f2f7bf6089d5ce7ffa450928.png,quer me mostrar o demoníaco ae?,,2025/10/29 10:25,,,
+1433084315239186574,mateus.sturm,https://cdn.discordapp.com/avatars/1306332453237162063/null.png,Opa bom dia,,2025/10/29 10:25,,,
+1433084392078704761,mateus.sturm,https://cdn.discordapp.com/avatars/1306332453237162063/null.png,Mostro sim,,2025/10/29 10:25,quer me mostrar o demoníaco ae?,2025-10-29T13:25:04.101000+00:00,pedromagalhaes0459
+1433084546261319681,pedromagalhaes0459,https://cdn.discordapp.com/avatars/824265863985233970/cc319c02f2f7bf6089d5ce7ffa450928.png,pode ligar?,,2025/10/29 10:26,,,
+1433084560253390898,mateus.sturm,https://cdn.discordapp.com/avatars/1306332453237162063/null.png,Pode,,2025/10/29 10:26,,,
+1433084596282589396,pedromagalhaes0459,https://cdn.discordapp.com/avatars/824265863985233970/cc319c02f2f7bf6089d5ce7ffa450928.png,,,2025/10/29 10:26,,,
+1433088771884191745,mateus.sturm,https://cdn.discordapp.com/avatars/1306332453237162063/null.png,"Só para confirmar:
+Migrar gitlabcria semad -> gitlab.com
+recriar variaveis
+Anotar tags do ci",,2025/10/29 10:43,,,
+1433089046455910511,mateus.sturm,https://cdn.discordapp.com/avatars/1306332453237162063/null.png,É isso né?,,2025/10/29 10:44,"Só para confirmar:
+Migrar gitlabcria semad -> gitlab.com
+recriar variaveis
+Anotar tags do ci",2025-10-29T13:43:08.719000+00:00,mateus.sturm
+1433089060821401630,pedromagalhaes0459,https://cdn.discordapp.com/avatars/824265863985233970/cc319c02f2f7bf6089d5ce7ffa450928.png,ilson....,,2025/10/29 10:44,,,
+1433089066940760197,pedromagalhaes0459,https://cdn.discordapp.com/avatars/824265863985233970/cc319c02f2f7bf6089d5ce7ffa450928.png,certinho,,2025/10/29 10:44,,,
+1433089093746819164,mateus.sturm,https://cdn.discordapp.com/avatars/1306332453237162063/null.png,fechou,,2025/10/29 10:44,,,
+1433089580839469086,mateus.sturm,https://cdn.discordapp.com/avatars/1306332453237162063/null.png,Pedro eu acho que eu já tinha migrado o semad,,2025/10/29 10:46,,,
+1433089681263956090,mateus.sturm,https://cdn.discordapp.com/avatars/1306332453237162063/null.png,no caso ta como semad_1 no gitlab,,2025/10/29 10:46,,,
+1433089733986095134,mateus.sturm,https://cdn.discordapp.com/avatars/1306332453237162063/null.png,,https://media.discordapp.net/attachments/1309597722936086579/1433089733625647226/image.png?ex=69036c52&is=69021ad2&hm=6c8d3483b9ff2952799d0091e54efb0ff7dcdcc8b734da593a8c3d50c330bbdf&,2025/10/29 10:46,,,
+1433089922214002758,pedromagalhaes0459,https://cdn.discordapp.com/avatars/824265863985233970/cc319c02f2f7bf6089d5ce7ffa450928.png,ctá... c vai fazer o seguinte pra mim pode deletar o semad e o semad_1 do gitlab.com,,2025/10/29 10:47,,,
+1433089966732349504,pedromagalhaes0459,https://cdn.discordapp.com/avatars/824265863985233970/cc319c02f2f7bf6089d5ce7ffa450928.png,e pode botar pra remigrar ...,,2025/10/29 10:47,,,
+1433090090195746816,mateus.sturm,https://cdn.discordapp.com/avatars/1306332453237162063/null.png,Tabom,,2025/10/29 10:48,,,
+1433090104259379412,pedromagalhaes0459,https://cdn.discordapp.com/avatars/824265863985233970/cc319c02f2f7bf6089d5ce7ffa450928.png,"pq não da pra ""atualizar"" o as issues desse trem",,2025/10/29 10:48,,,
+1433090148379132034,pedromagalhaes0459,https://cdn.discordapp.com/avatars/824265863985233970/cc319c02f2f7bf6089d5ce7ffa450928.png,da pra atualizar o codigo... mas o resto num dá,,2025/10/29 10:48,,,
+1433090165064204382,mateus.sturm,https://cdn.discordapp.com/avatars/1306332453237162063/null.png,Ah justo,,2025/10/29 10:48,,,
+1433090231992848454,mateus.sturm,https://cdn.discordapp.com/avatars/1306332453237162063/null.png,E o SEMAD já criado exclui tbm ou deixa?,,2025/10/29 10:48,,,
+1433090380336992257,mateus.sturm,https://cdn.discordapp.com/avatars/1306332453237162063/null.png,Se deixar nomeio como SEMAD_1 de novo?,,2025/10/29 10:49,,,
+1433091279071350785,pedromagalhaes0459,https://cdn.discordapp.com/avatars/824265863985233970/cc319c02f2f7bf6089d5ce7ffa450928.png,pode excluir,,2025/10/29 10:53,,,
+1433091316069302274,pedromagalhaes0459,https://cdn.discordapp.com/avatars/824265863985233970/cc319c02f2f7bf6089d5ce7ffa450928.png,passa a regua,,2025/10/29 10:53,,,
+1433091515080507504,mateus.sturm,https://cdn.discordapp.com/avatars/1306332453237162063/null.png,"Fechou, vou começar aqui. Qualquer coisa te chamo",,2025/10/29 10:54,,,
+1433091638829518958,pedromagalhaes0459,https://cdn.discordapp.com/avatars/824265863985233970/cc319c02f2f7bf6089d5ce7ffa450928.png,beleza,,2025/10/29 10:54,,,

@@ -1,0 +1,71 @@
+# Exemplo .gitlab-ci.yml do SEMAD Alerta Frontend
+# Branch: homolog
+# Projeto: gitlab.criainovacao.com.br/semad/alerta/semad-alerta-frontend
+
+stages:
+  - build
+  - deploy
+
+deploy_qas:
+  image: docker:latest
+  before_script:
+    - mkdir /root/.docker
+    - cp config.json /root/.docker/
+    - apk add --update bash curl
+  stage: deploy
+  when: on_success
+  only:
+    refs:
+      - qas
+  script:
+    - docker build -t registry.criainovacao.com.br/semad/qas/alerta-frontend:latest . --build-arg BUILD_FRONTEND=qas
+    - docker push registry.criainovacao.com.br/semad/qas/alerta-frontend:latest
+    - curl -X POST https://docker.geotech4web.com.br/semad/portainer/api/webhooks/087451f4-76eb-418c-9910-f6cf83725403
+
+build_homolog:
+  image:
+    name: gcr.io/kaniko-project/executor:v1.23.2-debug
+    entrypoint: [""]
+  before_script:
+    - mkdir -p /kaniko/.docker
+    - echo "{\"auths\":{\"${REGISTRY_URL}\":{\"auth\":\"$(printf "%s:%s" "${REGISTRY_USER}" "${REGISTRY_PASSWORD}" | base64 | tr -d '\n')\"}}}" > /kaniko/.docker/config.json
+  stage: build
+  only:
+    refs:
+      - homolog
+  tags:
+    - ina-proxmox
+  script:
+    - /kaniko/executor
+      --context "${CI_PROJECT_DIR}"
+      --dockerfile "${CI_PROJECT_DIR}/Dockerfile"
+      --destination "registry.meioambiente.go.gov.br/semad/homolog/alerta-frontend:latest"
+      --build-arg BUILD_FRONTEND=homolog
+
+deploy_homolog:
+  stage: deploy
+  only:
+    refs:
+      - homolog
+  tags:
+    - deploy-ina-homolog
+  script:
+    - docker login "$REGISTRY_URL" -u "$REGISTRY_USER" -p "$REGISTRY_PASSWORD"
+    - docker pull registry.meioambiente.go.gov.br/semad/homolog/alerta-frontend:latest
+    - docker service update --force --image registry.meioambiente.go.gov.br/semad/homolog/alerta-frontend:latest semad_alerta-frontend
+    - docker service ls
+
+deploy_prod:
+  image: docker:latest
+  before_script:
+    - mkdir /root/.docker
+    - cp config.json /root/.docker/
+    - apk add --update bash curl
+  stage: deploy
+  when: on_success
+  only:
+    refs:
+      - prod
+  script:
+    - docker build -t registry.criainovacao.com.br/semad/prod/alerta-frontend:latest . --build-arg BUILD_FRONTEND=prod
+    - docker push registry.criainovacao.com.br/semad/prod/alerta-frontend:latest
