@@ -43,13 +43,13 @@
 
 ## ☑️ FASE 3: Validação Estrutural
 
-- [ ] 3.1 Verificar 4 subgrupos criados
-- [ ] 3.2 Verificar 14 projetos criados
-- [ ] 3.3 Clonar 2-3 projetos e verificar histórico Git
-- [ ] 3.4 Verificar issues preservadas (amostragem)
-- [ ] 3.5 Verificar MRs preservados (amostragem)
-- [ ] 3.6 Verificar labels e milestones
-- [ ] 3.7 Verificar protected branches configuradas
+- [X] 3.1 Verificar 4 subgrupos criados
+- [X] 3.2 Verificar 14 projetos criados
+- [X] 3.3 Clonar 2-3 projetos e verificar histórico Git
+- [X] 3.4 Verificar issues preservadas (amostragem)
+- [X] 3.5 Verificar MRs preservados (amostragem)
+- [X] 3.6 Verificar labels e milestones
+- [X] 3.7 Verificar protected branches configuradas
 
 **Pausa 10min ☕**
 
