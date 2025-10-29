@@ -24,18 +24,18 @@
 
 ## ☑️ FASE 2: Migração Direct Transfer
 
-- [ ] 2.1 Acessar gitlab.com/youx-group
-- [ ] 2.2 Iniciar "Import group"
-- [ ] 2.3 Conectar instância CRIA (URL + PAT)
-- [ ] 2.4 Selecionar grupo SEMAD
-- [ ] 2.5 Marcar "Import with projects"
-- [ ] 2.6 Marcar "Import user memberships" (se aplicável)
-- [ ] 2.7 Verificar namespace: /youx-group/semad
-- [ ] 2.8 Iniciar importação
-- [ ] 2.9 Monitorar progresso (não fechar aba!)
-- [ ] 2.10 Aguardar status "Complete" ou "Partially completed"
-- [ ] 2.11 Clicar em "View details" se houver erros
-- [ ] 2.12 Documentar erros (se houver) em log_migracao.md
+- [X] 2.1 Acessar gitlab.com/youx-group
+- [X] 2.2 Iniciar "Import group"
+- [X] 2.3 Conectar instância CRIA (URL + PAT)
+- [X] 2.4 Selecionar grupo SEMAD
+- [X] 2.5 Marcar "Import with projects"
+- [X] 2.6 Marcar "Import user memberships" (se aplicável)
+- [X] 2.7 Verificar namespace: /youx-group/semad
+- [X] 2.8 Iniciar importação
+- [X] 2.9 Monitorar progresso (não fechar aba!)
+- [X] 2.10 Aguardar status "Complete" ou "Partially completed"
+- [X] 2.11 Clicar em "View details" se houver erros
+- [X] 2.12 Documentar erros (se houver) em log_migracao.md
 
 **Pausa 15min ☕**
 
