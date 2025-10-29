@@ -8,15 +8,15 @@
 
 ## ☑️ FASE 1: Preparação
 
-- [ ] 1.1 Documentar variáveis CI/CD do grupo SEMAD (CRIA)
-- [ ] 1.2 Documentar variáveis de todos os 14 projetos
-- [ ] 1.3 Salvar variáveis sensíveis no 1Password
-- [ ] 1.4 Gerar PAT no GitLab CRIA (scope: api, exp: +1 dia)
-- [ ] 1.5 Gerar PAT no gitlab.com (scope: api, exp: +1 dia)
-- [ ] 1.6 Salvar PATs no 1Password
-- [ ] 1.7 Deletar grupo SEMAD do gitlab.com/youx-group
-- [ ] 1.8 Deletar grupo SEMAD_1 do gitlab.com/youx-group
-- [ ] 1.9 Confirmar deleção bem-sucedida
+- [X] 1.1 Documentar variáveis CI/CD do grupo SEMAD (CRIA)
+- [X] 1.2 Documentar variáveis de todos os 14 projetos
+- [X] 1.3 Salvar variáveis sensíveis no 1Password
+- [X] 1.4 Gerar PAT no GitLab CRIA (scope: api, exp: +1 dia)
+- [X] 1.5 Gerar PAT no gitlab.com (scope: api, exp: +1 dia)
+- [X] 1.6 Salvar PATs no 1Password
+- [X] 1.7 Deletar grupo SEMAD do gitlab.com/youx-group
+- [X] 1.8 Deletar grupo SEMAD_1 do gitlab.com/youx-group
+- [X] 1.9 Confirmar deleção bem-sucedida
 
 **Pausa 10min ☕**
 

@@ -1,0 +1,14 @@
+240	tramitacao	semad/tramitacao
+228	PBL	semad/pbl
+194	Consulta - PDF	semad/consulta-pdf
+159	SEMAD Gerenciamento Frontend	semad/gerenciamento/frontend
+141	SEMAD Consulta Frontend	semad/consulta/frontend
+140	SEMAD Consulta Mobile	semad/consulta/mobile
+120	SEMAD Alerta Frontend	semad/alerta/semad-alerta-frontend
+119	Bug Tracker SEMAD	semad/bug-tracker
+117	Microserviços SEMAD	semad/microservicos
+114	SEMAD Fiscalização Frontend	semad/fiscalizacao/frontend
+113	SEMAD Fiscalização Mobile	semad/fiscalizacao/mobile
+112	SEMAD Admin API	semad/admin
+111	SEMAD Alerta Mobile	semad/alerta/mobile
+110	SEMAD Alerta API	semad/alerta/api

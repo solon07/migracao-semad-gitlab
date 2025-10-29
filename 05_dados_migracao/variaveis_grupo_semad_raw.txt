@@ -1,0 +1,3 @@
+REGISTRY_URL	registry.meioambiente.go.gov.br	env_var	false	false	*
+REGISTRY_USER	deploy	env_var	false	false	*
+REGISTRY_PASSWORD	6ZT1Kx0Gg92J	env_var	false	true	*

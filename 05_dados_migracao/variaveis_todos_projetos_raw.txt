@@ -1,0 +1,120 @@
+=== PROJETO: tramitacao ===
+Path: semad/tramitacao
+ID: 240
+
+REGISTRY_PASSWORD	6ZT1Kx0Gg92J	env_var	false	false	*
+REGISTRY_USER	deploy	env_var	false	false	*
+REGISTRY_URL	registry.meioambiente.go.gov.br	env_var	false	false	*
+
+---
+
+=== PROJETO: PBL ===
+Path: semad/pbl
+ID: 228
+
+Nenhuma variável encontrada
+
+---
+
+=== PROJETO: Consulta - PDF ===
+Path: semad/consulta-pdf
+ID: 194
+
+REGISTRY_USER	semad	env_var	false	false	*
+REGISTRY_PASSWORD	E~PLe5'"79!}	env_var	false	false	*
+REGISTRY_URL	registry.criainovacao.com.br	env_var	false	false	*
+
+---
+
+=== PROJETO: SEMAD Gerenciamento Frontend ===
+Path: semad/gerenciamento/frontend
+ID: 159
+
+Nenhuma variável encontrada
+
+---
+
+=== PROJETO: SEMAD Consulta Frontend ===
+Path: semad/consulta/frontend
+ID: 141
+
+Nenhuma variável encontrada
+
+---
+
+=== PROJETO: SEMAD Consulta Mobile ===
+Path: semad/consulta/mobile
+ID: 140
+
+Nenhuma variável encontrada
+
+---
+
+=== PROJETO: SEMAD Alerta Frontend ===
+Path: semad/alerta/semad-alerta-frontend
+ID: 120
+
+Nenhuma variável encontrada
+
+---
+
+=== PROJETO: Bug Tracker SEMAD ===
+Path: semad/bug-tracker
+ID: 119
+
+Nenhuma variável encontrada
+
+---
+
+=== PROJETO: Microserviços SEMAD ===
+Path: semad/microservicos
+ID: 117
+
+docker_user	deploy	env_var	false	false	*
+docker_password	6ZT1Kx0Gg92J	env_var	false	false	*
+REGISTRY_URL	registry.meioambiente.go.gov.br	env_var	false	false	*
+REGISTRY_USER	deploy	env_var	false	false	*
+REGISTRY_PASSWORD	6ZT1Kx0Gg92J	env_var	false	false	*
+
+---
+
+=== PROJETO: SEMAD Fiscalização Frontend ===
+Path: semad/fiscalizacao/frontend
+ID: 114
+
+Nenhuma variável encontrada
+
+---
+
+=== PROJETO: SEMAD Fiscalização Mobile ===
+Path: semad/fiscalizacao/mobile
+ID: 113
+
+Nenhuma variável encontrada
+
+---
+
+=== PROJETO: SEMAD Admin API ===
+Path: semad/admin
+ID: 112
+
+Nenhuma variável encontrada
+
+---
+
+=== PROJETO: SEMAD Alerta Mobile ===
+Path: semad/alerta/mobile
+ID: 111
+
+Nenhuma variável encontrada
+
+---
+
+=== PROJETO: SEMAD Alerta API ===
+Path: semad/alerta/api
+ID: 110
+
+Nenhuma variável encontrada
+
+---
+
