@@ -58,37 +58,37 @@
 ## ☑️ FASE 4: Recriar Variáveis CI/CD
 
 ### Grupo SEMAD
-- [ ] 4.1 Acessar gitlab.com/youx-group/semad/settings/ci_cd
-- [ ] 4.2 Recriar variável 1: ___________
-- [ ] 4.3 Recriar variável 2: ___________
-- [ ] 4.4 Recriar variável N: ___________
-- [ ] 4.5 Validar: todas variáveis do grupo recriadas
+- [X] 4.1 Acessar gitlab.com/youx-group/semad/settings/ci_cd
+- [X] 4.2 Recriar variável 1: REGISTRY_URL
+- [X] 4.3 Recriar variável 2: REGISTRY_USER
+- [X] 4.4 Recriar variável 3: REGISTRY_PASSWORD (🔒 MASKED)
+- [X] 4.5 Validar: todas variáveis do grupo recriadas
 
 ### Projetos Individuais
 
 #### Alerta
-- [ ] 4.6 SEMAD Alerta API - variáveis recriadas
-- [ ] 4.7 SEMAD Alerta Frontend - variáveis recriadas
-- [ ] 4.8 SEMAD Alerta Mobile - variáveis recriadas
+- [X] 4.6 SEMAD Alerta API - ✅ Sem variáveis (herda do grupo)
+- [X] 4.7 SEMAD Alerta Frontend - ✅ Sem variáveis (herda do grupo)
+- [X] 4.8 SEMAD Alerta Mobile - ✅ Sem variáveis (herda do grupo)
 
 #### Consulta
-- [ ] 4.9 SEMAD Consulta Frontend - variáveis recriadas
-- [ ] 4.10 SEMAD Consulta Mobile - variáveis recriadas
-- [ ] 4.11 Consulta - PDF - variáveis recriadas
+- [X] 4.9 SEMAD Consulta Frontend - ✅ Sem variáveis (herda do grupo)
+- [X] 4.10 SEMAD Consulta Mobile - ✅ Sem variáveis (herda do grupo)
+- [X] 4.11 Consulta - PDF - ✅ 3 variáveis recriadas (registry diferente)
 
 #### Fiscalização
-- [ ] 4.12 SEMAD Fiscalização Frontend - variáveis recriadas
-- [ ] 4.13 SEMAD Fiscalização Mobile - variáveis recriadas
+- [X] 4.12 SEMAD Fiscalização Frontend - ✅ Sem variáveis (herda do grupo)
+- [X] 4.13 SEMAD Fiscalização Mobile - ✅ Sem variáveis (herda do grupo)
 
 #### Gerenciamento
-- [ ] 4.14 SEMAD Gerenciamento Frontend - variáveis recriadas
+- [X] 4.14 SEMAD Gerenciamento Frontend - ✅ Sem variáveis (herda do grupo)
 
 #### Raiz
-- [ ] 4.15 Bug Tracker SEMAD - variáveis recriadas
-- [ ] 4.16 Microserviços SEMAD - variáveis recriadas
-- [ ] 4.17 PBL - variáveis recriadas
-- [ ] 4.18 SEMAD Admin API - variáveis recriadas
-- [ ] 4.19 tramitacao - variáveis recriadas
+- [X] 4.15 Bug Tracker SEMAD - ✅ Sem variáveis (herda do grupo)
+- [X] 4.16 Microserviços SEMAD - ✅ 5 variáveis recriadas (com duplicação)
+- [X] 4.17 PBL - ✅ Sem variáveis (herda do grupo)
+- [X] 4.18 SEMAD Admin API - ✅ Sem variáveis (herda do grupo)
+- [X] 4.19 tramitacao - ✅ 3 variáveis recriadas
 
 **Pausa 10min ☕**
 
