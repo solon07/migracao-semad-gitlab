@@ -96,10 +96,10 @@
 
 ## ☑️ FASE 5: Documentar Tags CI/CD
 
-- [ ] 5.1 Analisar .gitlab-ci.yml de cada projeto
-- [ ] 5.2 Documentar tags em template_tags.md
-- [ ] 5.3 Gerar relatório consolidado
-- [ ] 5.4 Anexar relatório na issue #1772
+- [X] 5.1 Analisar .gitlab-ci.yml de cada projeto
+- [X] 5.2 Documentar tags em tags_raw.txt
+- [X] 5.3 Gerar relatório consolidado
+- [X] 5.4 Anexar relatório na issue 
 
 ---
 

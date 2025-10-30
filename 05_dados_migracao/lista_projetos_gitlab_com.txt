@@ -1,0 +1,14 @@
+75694081	SEMAD Admin API	youx-group/semad/admin
+75694360	SEMAD Alerta API	youx-group/semad/alerta/api
+75694151	SEMAD Alerta Frontend	youx-group/semad/alerta/semad-alerta-frontend
+75694161	SEMAD Alerta Mobile	youx-group/semad/alerta/mobile
+75694452	SEMAD Consulta Frontend	youx-group/semad/consulta/frontend
+75694631	SEMAD Consulta Mobile	youx-group/semad/consulta/mobile
+75694706	SEMAD Fiscalização Frontend	youx-group/semad/fiscalizacao/frontend
+75694701	SEMAD Fiscalização Mobile	youx-group/semad/fiscalizacao/mobile
+75694749	SEMAD Gerenciamento Frontend	youx-group/semad/gerenciamento/frontend
+75694028	Consulta - PDF	youx-group/semad/consulta-pdf
+75694045	Microserviços SEMAD	youx-group/semad/microservicos
+75694029	Bug Tracker SEMAD	youx-group/semad/bug-tracker
+75694027	PBL	youx-group/semad/pbl
+75694026	tramitacao	youx-group/semad/tramitacao

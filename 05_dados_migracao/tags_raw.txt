@@ -1,0 +1,26 @@
+=== tramitacao (ID: 75694026) ===
+deploy-ina-homolog
+deploy-prod-microsservices-semad
+ina-proxmox
+semad-tramitacao-prod
+
+=== Microservios SEMAD (ID: 75694045) ===
+deploy-ina-homolog
+deploy-prod-microsservices-semad
+ina-proxmox
+semad-microsservicos-prod
+
+=== SEMAD Alerta Frontend (ID: 75694151) ===
+deploy-ina-homolog
+ina-proxmox
+
+=== SEMAD Fiscalizao Frontend (ID: 75694706) ===
+deploy-ina-homolog
+ina-proxmox
+semad-fiscalizacao-frontend-prod
+
+=== SEMAD Gerenciamento Frontend (ID: 75694749) ===
+deploy-ina-homolog
+ina-proxmox
+semad-gerenciamento-front-prod
+

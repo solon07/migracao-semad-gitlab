@@ -1,0 +1,6 @@
+75694027|PBL
+75694029|Bug Tracker SEMAD
+75694161|SEMAD Alerta Mobile
+75694452|SEMAD Consulta Frontend
+75694631|SEMAD Consulta Mobile
+75694701|SEMAD Fiscalizao Mobile
